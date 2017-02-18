@@ -1,0 +1,1 @@
+Implementation of the layout on html css. Initial datd from https://github.com/rolling-scopes-school/tasks/blob/2017-Q1/tasks/positionin_and_floats.md

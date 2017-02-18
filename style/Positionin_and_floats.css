@@ -1,0 +1,123 @@
+@font-face {
+    font-family: "MYRIADPRO-REGULAR";
+    src: url(fonts/MYRIADPRO-REGULAR.OTF);
+}
+*{
+    font-family: "MYRIADPRO-REGULAR", sans-serif;
+    font-weight: normal;
+    font-size: 12px;
+}
+body{
+    height: 2000px;
+}
+.constructor{
+    position: relative;
+    margin: 200px auto;
+    width: 520px;
+}
+.list_1{
+    height: 668px;
+    width: 458px;
+    background-color: #ebebeb;
+    position: absolute;
+    left: -20px;
+    top: -20px;
+    padding: 40px 30px;
+    border: 1px solid #000;
+}
+.list_2{
+    height: 748px;
+    width: 518px;
+    background-color: #cccccc;
+    position: absolute;
+    left: 0;
+    top: 0;
+    border: 1px solid #000;
+}
+.list_3{
+    height: 748px;
+    width: 518px;
+    background-color: #acacac;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    border: 1px solid #000;
+}
+.bookmark_1{
+    height: 33px;
+    width: 108px;
+    border: 1px solid #000;
+    background-color: #f68e56;
+    border-radius: 0 10px 10px 0;
+    position: absolute;
+    left: 490px;
+    top: 40px;
+}
+.bookmark_2{
+    height: 33px;
+    width: 108px;
+    border: 1px solid #000;
+    background-color: #39b54a;
+    border-radius: 0 10px 10px 0;
+    position: absolute;
+    left: 450px;
+    top: 40px;
+}
+.bookmark_3{
+    height: 33px;
+    width: 108px;
+    border: 1px solid #000;
+    background-color: #00aeef;
+    border-radius: 0 10px 10px 0;
+    position: absolute;
+    left: 415px;
+    top: 40px;
+}
+#foto_1{
+    float: left;
+    margin: 0 18px 0 0;
+}
+#foto_2{
+    float: right;
+}
+#foto_3{
+    position: absolute;
+    left: 6px;
+    bottom: 15px;
+}
+h2{
+    font-size: 24px;
+}
+footer{
+    position: absolute;
+    left: 0;
+    bottom: 20px;
+    margin: 0 30px;
+}
+#Foot{
+    font-size: 9px;
+}
+#BeforeJokes{
+    font-size: 18px;
+}
+.Jokes{
+    width: 518px;
+    position: absolute;
+    left: 0;
+}
+.Img{
+    padding: 7px 33px 7px 30px;
+}
+.Clear{
+    clear:both;
+}
+.Feedback{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    width: 88px;
+    height: 68px;
+    border: 1px solid #000;
+    font-size: 16px;
+    background-color: #fbaf5d;
+}
